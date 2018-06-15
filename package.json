@@ -1,5 +1,7 @@
 {
   "name": "mmailer_app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "mjml": "^4.0.5"
+  }
 }
